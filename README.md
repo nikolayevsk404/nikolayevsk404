@@ -1,56 +1,48 @@
-# Guilherme Augusto
+# Full Stack Developer | PHP (Laravel, Symfony) • TypeScript (Node.js, React) | AWS • Database Specialist | TDD • Clean Architecture
 
-## Full Stack Developer
+I am a Full Stack Developer with solid experience in building web and mobile applications and solutions, working from conception to delivery of scalable, well-structured, and high-performance systems. I have strong expertise in frontend with React and Vue.js, backend with Node.js and PHP (CodeIgniter, Laravel, Symfony and Zend), as well as experience in mobile development with Flutter and React Native.
 
-[GitHub](https://www.github.com/nikolayevsk404/) | [LinkedIn](https://www.linkedin.com/in/nikolayevsk404)
+I work with relational and NoSQL databases such as MongoDB, MySQL, PostgreSQL, PL/SQL and Firebase. I follow software engineering best practices such as Clean Architecture, Clean Code, CI/CD, SOLID, TDD, and containerization with Docker.
 
-- Web Developer
-- Mobile Developer
-- Game Developer
+I have experience with messaging systems (Kafka), real-time communication via Webhooks and WebSockets. I also have hands-on experience with automated testing (PHPUnit, Pest and Jest), as well as monitoring tools such as Sentry, SonarQube, Datadog and Rancher, always focusing on reliability, maintainability, and continuous system evolution.
 
-### Skills
+🎓 Education:
+- 👨🏻‍💻 JavaScript Specialization (JS Expert – Erick Wendel)
+- 🧠 Postgraduate Degree in Database Administration – FAMEESP
+- 🏫 Bachelor's Degree in Systems Analysis and Development – UNICESUMAR
+- 🎮 Technical Degree in Game Programming and Development – City Computer
 
-Bootstrap, Clean Architecture, CSS, Docker, Flutter, Git, Hardware, HTML, JavaScript, Jest, Laravel, Linux, MVC Architecture, MySQL, NoSQL, Node.js, PHP, PostgreSQL, React.js, React Native, SOLID, TDD, Tailwind CSS, TypeScript, Unreal Engine, Vite, Vue.js
+💼 Expertise:
+- ⚙️ Robust backend with PHP and Node.js
+- ⚛️ Modern frontend with React and Vue.js
+- 📱 Mobile development with Flutter and React Native
+- 🧩 Microservices and Event-Driven Architecture
+- 🌐 WebSockets, Webhooks and real-time systems
+- 🧪 Automated testing and code quality
+- 🐧 Linux, servers and development environments
+- ☁️ AWS, Docker and Kubernetes
 
-### Contact
+🎯 Experience:
+- 🏢 Working as a contractor (CNPJ) on maintenance and modernization of systems and real-time applications
 
-- E-mail: guilhermelonghini@gmail.com
-- WhatsApp: 5544988473908
+🎤 Community & Recognition:
+- 🎙️ Speaker at DevParaná community
+- 🚀 Mentor at NASA Hackathon
 
-### Experience
+🏆 Achievements & Projects:
+- 🎸 Crowdfunding platform for musicians (React final project)
+- 🧬 Node.js pipeline for DNA/RNA chloroplast analysis
+- 👾 Article about Event-Driven Architecture within World of Warcraft
+- 🕹️ Game self-developed published on my website, available for free download
 
-- **Vivaworks** (Since 07/2024) <br>
-  Mid-Level Developer
-- **Institute of Development, Research and Innovation** (6 months) <br>
-  Responsible for the development of educational websites/systems for municipalities in Rio de Janeiro
-- **Gazin Tech** (2 years) <br>
-  Development of the TLG | Transportation and Logistics Gazin website/system
-- **Vivaweb** (1 year) <br>
-  Development of the Vivaintra | Corporate Social Network website/system
+📚 Continuous Learning:
+Always studying and evolving in areas such as AI, distributed systems and scalable architecture.
 
-### Education
+🌐 Languages:
+- 🇧🇷 Portuguese (Native)
+- 🇺🇸 English (Advanced)
 
-- **FAMEESP:** Postgraduate - Database Administration (2023)
-- **UNICESUMAR:** Graduate - Systems Analysis and Development (2021)
-- **CITY COMPUTER:** Technician - Game Programmer and Developer (2018)
-
-### Certifications
-
-- **JS EXPERT**: Erick Wendel
-- **REACT JS**: Alura
-
-### Events
-
-- **Hackathon NASA**: Mentor
-- **DevParaná Conference**: Collaborator
-
-### Summary
-
-Full Stack Developer experient in web development, specializing in
-Database, proficient in technologies such as JavaScript/TypeScript
-(React and Node.js) Flutter, PHP Laravel, Vite and Vue.js.
-
-### Languages
-
-- English - Advanced
-- Portuguese - Native
+🔗 Links
+- Email: guilhermelonghini@gmail.com
+- GitHub: https://www.github.com/nikolayevsk404/
+- LinkedIn: https://www.linkedin.com/in/nikolayevsk404/
