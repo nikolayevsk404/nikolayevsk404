@@ -1,5 +1,3 @@
-🚀 Desenvolvedor Full Stack | PHP (Laravel, Symfony) • TypeScript (Node.js, React) | AWS • Database Specialist | TDD • Clean Architecture
-
 I am a Full Stack Developer with solid experience in building web and mobile applications and solutions, working from conception to delivery of scalable, well-structured, and high-performance systems. I have strong expertise in frontend with React and Vue.js, backend with Node.js and PHP (CodeIgniter, Laravel, Symfony and Zend), as well as experience in mobile development with Flutter and React Native.
 
 I work with relational and NoSQL databases such as MongoDB, MySQL, PostgreSQL, PL/SQL and Firebase. I follow software engineering best practices such as Clean Architecture, Clean Code, CI/CD, SOLID, TDD, and containerization with Docker.
@@ -27,7 +25,7 @@ I have experience with messaging systems (Kafka), real-time communication via We
 
 🎤 Community & Recognition:
 - 🎙️ Speaker at DevParaná community
-- 🌍 Mentor at NASA Hackathon
+- 🚀 Mentor at NASA Hackathon
 
 🏆 Achievements & Projects:
 - 🎸 Crowdfunding platform for musicians (React final project)
