@@ -32,8 +32,8 @@ Achievements & Projects:
 - Crowdfunding platform for musicians (React final project)
 - Article about Event-Driven Architecture within World of Warcraft
 - Game self-developed published on my website, available for free download
-- AI-powered application that converts guitar audio into tablature using machine learning and audio signal processing techniques
-- Development of 2D/3D browser-based games featuring AI-driven agents and bots capable of learning from player behavior and adapting gameplay dynamically
+- Developed an AI-powered system that converts guitar recordings into tablature using machine learning
+- Developed 2D and 3D browser games with AI agents that learn from player behavior and adapt dynamically
 
 Continuous Learning:
 Always studying and evolving in areas such as AI, distributed systems and scalable architecture.
