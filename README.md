@@ -28,12 +28,12 @@ Community & Recognition:
 - Mentor at NASA Hackathon
 
 Achievements & Projects:
-- Node.js pipeline for DNA/RNA chloroplast analysis
-- Crowdfunding platform for musicians (React final project)
+- JavaScript pipeline for DNA/RNA chloroplast analysis
 - Article about Event-Driven Architecture within World of Warcraft
+- Crowdfunding platform in React for musicians (College final project)
 - Game self-developed published on my website, available for free download
 - Developed an AI-powered system that converts guitar recordings into tablature using machine learning
-- Developed 2D and 3D browser games with AI agents that learn from player behavior and adapt dynamically
+- Developed 2D/3D browser games with AI agents that learn from player behavior and adapt dynamically
 
 Continuous Learning:
 Always studying and evolving in areas such as AI, distributed systems and scalable architecture.
